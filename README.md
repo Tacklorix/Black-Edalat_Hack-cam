@@ -15,7 +15,7 @@
 
 sudo apt update
 
-sudk apt upgrade
+sudo apt upgrade
 
 sudo apt install bash
 
