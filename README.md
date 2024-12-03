@@ -4,8 +4,9 @@
 
 کانال تلگرام آموزشی ما = Black_Edalat@
 
----------------------------
-![Screenshot_۲۰۲۴۱۲۰۴_۲۳۳۳۰۶_Termux](https://github.com/user-attachments/assets/29fc446a-72dd-42e8-9151-5d2228d3d271)
+-----------------------
+![Screenshot_۲۰۲۴۱۲۰۴_۲۳۳۳۰۶_Termux](https://github.com/user-attachments/assets/42b9b841-d674-428c-aae6-3bd19b448857)
+
 
 
 
